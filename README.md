@@ -3,7 +3,9 @@ A React-Native Application that has multilpe pages/functionalities: Login/Regist
 
 Created using:
 https://facebook.github.io/react-native/docs/getting-started
+
 &&
+
 https://app.pluralsight.com/library/courses/react-native-fundamentals/table-of-contents
 
 Modified & Improved various files & looks.
